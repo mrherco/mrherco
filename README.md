@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm
 <p align="center"><img src="ln.png" alt="LN Logo" height="180"/></p></h1>  
-<h3 align="center">✷ Cyber Security Analyst ✷</h3>
+<h3 align="center">✷ Ethical Hacker | VAPT Expert ✷</h3>
 
 ---
 
@@ -14,7 +14,7 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 <p align="center"><img src="cn.png" alt="CN Logo" height="200"/></p>
 
 ### Blue Team & SOC Operations
-- Security monitoring & log analysis  
+- Security monitoring  
 - Network traffic inspection & anomaly detection    
 - Detection improvement & defensive recommendations
 - Protects System Security
@@ -32,7 +32,7 @@ I understand **real-world attack methodologies**—from reconnaissance and explo
 - Manual vulnerability and attack research  
 - Threat intelligence analysis  
 - Continuous independent research  
-- AI-assisted validation (expert-level use)  
+- AI-assisted validation  
 
 ### Social Engineering Expert
 - Human-factor attack analysis  
